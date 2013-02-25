@@ -8,13 +8,13 @@ E.g. the lorem ipsum text fully sanitized looks like this:
 # Usage
 
 ```ruby
-"Deploy all ground asserts to Northern Theater.".redact
+"Deploy all ground asserts to Northern Theater.".sanitize
 # => ██████ ███ ██████ ███████ ██ ████████ ███████.
 ```
 
 ```ruby
-"Engage any combatants using IE.".sanitize
-# => ██████ ███ ██████████ █████ ██.
+"Engage any combatants using IE.".redcact
+# => [REDACTED] [REDACTED] [REDACTED] [REDACTED] [REDACTED].
 ```
 
 **Sanitization** is the process of removing sensitive information from a document or other medium, so that it may be distributed to a broader audience. When dealing with classified information, sanitization attempts to reduce the document's classification level, possibly yielding an unclassified document. Originally, the term sanitization was applied to printed documents; it has since been extended to apply to computer media and the problem of data remanence as well.
