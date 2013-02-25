@@ -1,6 +1,6 @@
-Sanitize or redact the facts from your lorem ipsum!
+Sanitize or redact your Ruby strings!
 
-E.g. the lorem ipsum text fully sanitized looks like this:
+E.g. the [lorem ipsum text](http://en.wikipedia.org/wiki/Lorem_ipsum) fully sanitized looks like this:
 
 █████ █████ █████ ███ ████, ███████████ ███████████ ████, ███ ██ ███████ ██████ ██████████ ██ ██████ ██ ██████ █████ ██████. ██ ████ ██ █████ ██████, ████ ███████ ████████████ ███████ ███████ ████ ██ ███████ ██ ██ ███████ █████████. ████ ████ █████ █████ ██ █████████████ ██ █████████ █████ ████ ██████ ██████ ██ ██████ █████ ████████. █████████ ████ ████████ █████████ ███ ████████, ████ ██ █████ ███ ███████ ████████ ██████ ████ ██ ███ ███████.
 
