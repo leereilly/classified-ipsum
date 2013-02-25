@@ -13,6 +13,6 @@ class String
   # Returns the redacted string e.g.
   # "Lee Reilly" becomes "[REDACTED] [REDACTED]"
   def sanitize
-    self.downcase.gsub(/[abcdefghijklmnopqrstuvwxyz1234567890]/, DEFAULT_SANITIZATION)
+    self.downcase.gsub(/[0-9a-z]/, DEFAULT_SANITIZATION)
   end
 end
