@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pat/thinking-sphinx.png?branch=master)](https://travis-ci.org/pat/thinking-sphinx)
+
 Sanitize or redact your Ruby strings!
 
 E.g. the [lorem ipsum text](http://en.wikipedia.org/wiki/Lorem_ipsum) fully sanitized looks like this:
