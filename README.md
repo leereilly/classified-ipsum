@@ -15,7 +15,7 @@ E.g. the [lorem ipsum text](http://en.wikipedia.org/wiki/Lorem_ipsum) fully sani
 ```
 
 ```ruby
-"Engage any combatants using IE.".redcact
+"Engage any combatants using IE.".redact
 # => [REDACTED] [REDACTED] [REDACTED] [REDACTED] [REDACTED].
 ```
 
