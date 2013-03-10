@@ -10,7 +10,7 @@ E.g. the [lorem ipsum text](http://en.wikipedia.org/wiki/Lorem_ipsum) fully sani
 # Usage
 
 ```ruby
-"Deploy all ground asserts to Northern Theater.".sanitize
+"Deploy all ground assets to Northern Theater.".sanitize
 # => ██████ ███ ██████ ███████ ██ ████████ ███████.
 ```
 
