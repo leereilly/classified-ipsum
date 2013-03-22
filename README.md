@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/leereilly/classified-ipsum.png?branch=master)](https://travis-ci.org/leereilly/classified-ipsum)
-
 Sanitize or redact your Ruby strings!
 
 E.g. the [lorem ipsum text](http://en.wikipedia.org/wiki/Lorem_ipsum) fully sanitized looks like this:
